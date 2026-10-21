@@ -1,5 +1,9 @@
 # Parker & Pine Storybook
 
+## [Open the storybook website](https://parker-pine-storytime.michaelwolfum.chatgpt.site/)
+
+Click the link above to read and play. This GitHub repository contains the website’s source files.
+
 An interactive picture-book website built with HTML, CSS, and JavaScript, without frameworks or libraries.
 
 Read **Johnny Builds to Mars**, decorate and name a rocket, assemble its parts, and see the same creation return throughout the adventure. The site also includes book search, age filters, read-aloud support where available, and playful activities on each page.
