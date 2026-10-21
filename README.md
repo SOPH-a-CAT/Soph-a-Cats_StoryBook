@@ -1,6 +1,6 @@
 # Parker & Pine Storybook
 
-## [Open the storybook website](https://parker-pine-storytime.michaelwolfum.chatgpt.site/)
+## [Open the storybook website](https://soph-a-cat.github.io/Soph-a-Cats_StoryBook/)
 
 Click the link above to read and play. This GitHub repository contains the website’s source files.
 
@@ -34,4 +34,4 @@ Designs and reading progress are saved in browser localStorage on the current de
 
 Johnny Builds to Mars is currently an original demonstration story, pending the text of the intended published book. The other included stories are public-domain retellings.
 
-Published site: https://parker-pine-storytime.michaelwolfum.chatgpt.site/
+Published site: https://soph-a-cat.github.io/Soph-a-Cats_StoryBook/
